@@ -3,7 +3,7 @@
 > A Vue.js project
 
 预览：
-![css-frog](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/*8UweYAVo2xDhekgRL6XGCOifD61D4qbP4SbZZot22k!/b/dEQBAAAAAAAA&bo=0QiwBNEIsAQDZ0I!&rf=viewer_4)
+![css-frog](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/k9o.ub**0XUMXkpevhOP.DeFVGiPDPf.x70smXXfzk0!/b/dFsBAAAAAAAA&bo=qgK6BKoCugQDNxI!&rf=viewer_4)
 
 ## Build Setup
 
