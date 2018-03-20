@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+预览：
+![css-frog](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/*8UweYAVo2xDhekgRL6XGCOifD61D4qbP4SbZZot22k!/b/dEQBAAAAAAAA&bo=0QiwBNEIsAQDZ0I!&rf=viewer_4)
+
 ## Build Setup
 
 ``` bash
